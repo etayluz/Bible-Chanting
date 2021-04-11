@@ -1,0 +1,18 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 964px;
+}
+
+.playButton {
+  z-index: 100;
+  position: absolute;
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  left: 1200px;
+  height: 30px;
+  width: 30px;
+}
