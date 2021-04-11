@@ -7,12 +7,19 @@
 }
 
 .playButton {
-  z-index: 100;
   position: absolute;
-  color: white;
-  font-size: 24px;
-  font-weight: bold;
   left: 1200px;
   height: 30px;
   width: 30px;
+  background-size: 30px 30px;
+  padding: 0;
+  border: none;
+  background: none;
+  background-image: url( 'https://www.pngfind.com/pngs/m/427-4277341_add-play-button-to-image-online-overlay-play.png' );
+}
+
+#close-CSS {
+    background-size: 30px 30px;
+    height: 30px;  
+    width: 30px;
 }
